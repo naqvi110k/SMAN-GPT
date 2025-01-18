@@ -1,0 +1,62 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+logs
+*.log
+
+# Build output
+build/
+dist/
+
+# Dependency directories
+jspm_packages/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python (if you have any Python scripts)
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__/
+
+# Coverage reports
+coverage/
+.coverage
+
+# Jest
+.jest-test-results.json
+
+# Next.js (if applicable)
+.next/
+out/
+
+# Cypress
+cypress/
+
+# Storybook
+storybook-static/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Yarn
+.pnp
+.pnp.js
+.yarn-integrity
